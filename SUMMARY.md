@@ -14,4 +14,5 @@
 * [什么是哲学?](shi-yao-shi-zhe-5b663f.md)
 * [数学、推理与逻辑](shu-xue-3001-tui-li-yu-luo-ji.md)
 * [解析经济、社会](jie-xi-jing-ji-3001-she-hui.md)
+* [浅析人的学习、思考模式](qian-xi-ren-de-xue-xi-3001-si-kao-mo-shi.md)
 
