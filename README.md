@@ -6,6 +6,7 @@
 
 版权所有：每一个创造语言的人
 
+原文刊登地址：https://yingshaoxo.gitbooks.io/-material-and-thoughts/content/
 ___
 
 请先欣赏一部电影——《超验骇客》
