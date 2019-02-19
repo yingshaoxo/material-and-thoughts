@@ -19,4 +19,5 @@
 * [我对人事的看法](wo-dui-ren-shi-de-kan-fa.md)
 * [关于AI](guan-yu-ai.md)
 * [关于教育](guan-yu-jiao-yu.md)
+* [关于编程](guan-yu-bian-cheng.md)
 
