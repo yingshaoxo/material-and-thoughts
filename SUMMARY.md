@@ -12,4 +12,5 @@
   * [开始上学](kai-shi-shang-xue.md)
 * [什么是爱？](te-8f913a-shi-yao-shi-ai-ff1f.md)
 * [什么是哲学?](shi-yao-shi-zhe-5b663f.md)
+* [数学、推理与逻辑](shu-xue-3001-tui-li-yu-luo-ji.md)
 
