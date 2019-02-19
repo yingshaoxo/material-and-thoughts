@@ -18,4 +18,5 @@
 * [我对文学、影视、音乐等作品的看法](wo-dui-wen-xue-3001-ying-shi-3001-yin-le-deng-zuo-pin-de-kan-fa.md)
 * [我对人事的看法](wo-dui-ren-shi-de-kan-fa.md)
 * [关于AI](guan-yu-ai.md)
+* [关于教育](guan-yu-jiao-yu.md)
 
