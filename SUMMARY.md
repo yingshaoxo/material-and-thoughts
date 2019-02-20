@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [序](xu.md)
+* [总论](zong-lun.md)
 * [第一章，世界观](di-yi-zhang-ff0c-shi-jie-guan.md)
   * [我们所处的空间](di-yi-zhang-ff0c-shi-jie-guan/wo-men-suo-chu-de-kong-jian.md)
   * [生命的起源](di-yi-zhang-ff0c-shi-jie-guan/sheng-ming-de-qi-yuan.md)
@@ -22,5 +23,5 @@
 * [关于教育](guan-yu-jiao-yu.md)
 * [关于编程](guan-yu-bian-cheng.md)
 * [关于本书与作者](guan-yu-ben-shu-yu-zuo-zhe.md)
-* [理论引索](li-lun-yin-suo.md)
+* 总论
 
