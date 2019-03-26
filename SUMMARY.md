@@ -20,6 +20,7 @@
 * [我对人事的看法](wo-dui-ren-shi-de-kan-fa.md)
 * [解析语言与思维、认知、行动等间的关系](jie-xi-yu-yan-yu-si-wei-3001-ren-zhi-3001-xing-dong-deng-jian-de-guan-xi.md)
 * [通俗人际关系解析](tong-su-ren-ji-guan-xi-jie-xi.md)
+* [男女之事](nan-nv-zhi-shi.md)
 * [关于AI](guan-yu-ai.md)
 * [关于教育](guan-yu-jiao-yu.md)
 * [关于编程](guan-yu-bian-cheng.md)
