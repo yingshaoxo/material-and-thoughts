@@ -29,6 +29,10 @@ ___
 > 比如`马云`这样的人，因为外貌不好看，所以不能思考`谈恋爱这件事`，所以把`大量的精力`不分昼夜地花在工作上，最终成就了一番伟业
 
 如果你实在无法控制自己的性欲(就像我一样)，你可以尝试看`VR Porn`，那可以麻痹你的`脑神经`，让它以为你`做爱了`，实际上`你没做`。
+
+```
+Every time after I finished watching a VR porn, the desire of masturbation or ejaculation will be gone for weeks.
+```
 ___
 
 当你了解这些事实之后，你便对你的`恋爱需求`有了更深刻的认识。
