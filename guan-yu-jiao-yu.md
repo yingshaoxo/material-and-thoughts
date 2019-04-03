@@ -36,4 +36,6 @@ ___
 
 4. 教材厂商 或者 老师自己，为了偷懒、省事，往往在答案里偷工减料，省略(或者)跳过一些`推理步骤`，这实在是给学生的理解造成了极大的障碍。(厂商这样做是为了节约成本；老师这样做是为了树立权威，让你依赖她们的讲解，不能通过自学取得进步(然而 that was total shit, your mission at school is to learn things, not to follow the teacher's rule))
 
+5. 另外对于某些学科，它的本质不是`题目(问题)`。比如 English, 它的本质是一门语言，用来 communication and representation.
+
 > 解决方法: 强制改革，通过 Internet 发布高质量且免费的教学视频、文档、书籍，让学生拥有自学能力。(瞎做几百道题，不如通过`一步步彻底搞懂一道题`来`理解一类题`)
