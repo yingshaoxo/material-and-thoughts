@@ -18,7 +18,7 @@ ___
 
 ___
 
-#### What goes wrong in traditionally class?
+#### What going wrong in traditionally class?
 
 1. Most teachers do teachings for money instead of for love about that subject. They do `inefficient and repeated boring teaching` for `class fee`. (For example, we could record the best video tutorial for once, and play it everywhere. We could create the best document, website, books in this world, then let students learn things by themselves, learn it by exploration)
 
