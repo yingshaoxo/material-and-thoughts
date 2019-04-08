@@ -54,7 +54,7 @@ ___
 
 所以我们要“加密”。加密过程中要保证群体的小范围、精英化，所以我们多用另一种语言来代替。在中国，英语、古汉语、学科专业术语都有可能被用作加密的工具。
 
-> 你这样想：如果人人都懂技术人员的术语，人人就都会那些技术，如此一来还要那些技术人员干嘛？自己就能把任务完成
+> 你这样想：如果人人都懂技术人员的术语，人人就都会那些技术，如此一来还要那些技术人员干嘛？自己就能把任务完成。
 
 社会是一个金字塔，人员会流动，但阶层是固定的，forever.
 
@@ -63,7 +63,7 @@ ___
 ___
 
 
-**智力的本质体现 是 预测的`时间长度`与`准确度`。**
+**智力的本质体现 是 预测的`时间长度`与`准确率`。**
 
 > 这个是我学 Machine Learning 得到的结论。
 
@@ -93,15 +93,15 @@ ___
 
 其实不用太关心你学到的具体知识在十年后是否会过期，而要重点关注你是否在学习、运用这些知识解决问题的过程中建立了自己的认知习惯和思维模式。这些东西，毫不夸张地说，能让你终身受益。
 
-> 我虽然这么讲了，但还是很虚啊。这些应该是属于整套方法论和价值观，比如 `Google 搜索是最好的`、`不实验或测试就不知道是否可行`、`if else`
+> 我虽然这么讲了，但还是很虚啊。这些应该属于一整套方法论和价值观，比如 `Google 搜索是最好的`、`不实验或测试就不知道是否可行`、`if else`
 
 ___
 
-We just use number to measure the difference, in this way, it can be accuracy. That's the power of mathematics.
+We just use numbers to measure the difference, in this way, it can be accuracy. That's the power of mathematics.
 
-Based on that, you got physical, chemical and biological. With those, you can create machines (like computer), control reaction of materials, change human body, and so on. That's the power of human-being.
+Based on that, you got physical, chemical and biological. With those, you can create machines (like a computer), control reaction of materials, change the human body, and so on. That's the power of human being.
 
-In the end, comes history, politics and geography, It's related to profit distribution, mind controlling, and strategy of war. That's the power of leaders.
+In the end, came history, politics, and geography. It was related to profit distribution, mind control, and strategy of war and peace. That's the power of leaders
 
 > 这里讲了人类是怎么样利用数学来做事的。或者说数学对人类的意义。
 
@@ -147,15 +147,15 @@ ___
 
 当你保持稳定的高速功率输出，你会坚信你能改变世界，事实也是如此。
 
-> 就怕你保持不住，Passion 这个东西，很难获得的，你要迷信你要做之事能给你带来收益。
+> 就怕你保持不住，Passion 这个东西，很难获得的，你要迷信你要做的事能给你带来收益。
 
 ___
 
 #### **两种判断事物正确与否的标准：**
 
-1.经济利益，对自己有好处那方永远是对的(生物要生存所必要的处事方法
+1.经济利益，对自己有好处那方永远是对的 (生物要生存所必要的处事方法
 
-2.在同一套世界观下、在同一个认知体系下，符合观察、事实和逻辑(生物要进化所必要的科学方法
+2.在同一套世界观下、在同一个认知体系下，符合观察、事实和逻辑 (生物要进化所必要的科学方法
 
 他们共同配合，共同推动历史发展 (前者从其他人类那里汲取利益，后者从大自然汲取利益
 
@@ -165,9 +165,9 @@ ___
 
 #### **言论或语言的作用：**
 
-0. 传播知识 - 所谓知识，无非就是一种预测方法让你能够预测未来，比如 高锰酸钾+加热=氧气（火+生物=死尸)。- 智力的本质体现是预测的时间长度与准确率，这个我之前讲过
+0. 传播知识 - 所谓知识，无非就是一种预测方法让你能够预测未来，比如 高锰酸钾+加热=氧气（火+生物=死尸)。--- `智力的本质体现是预测的时间长度与准确率`，这个我之前讲过
 
-1. 煽动别人做事 - 通过改变人的思想(改变逻辑链条、前因后果，从而改变预测结果)，来让他们做出发言者预料到的事。- 如政治宣传机器(各种TV、报纸、radio)
+1. 煽动别人做事 - 通过改变人的思想(改变逻辑链条、前因后果，从而改变预测结果)，来让他们做出发言者预料到的事。--- 如政治宣传机器(各种TV、报纸、radio)
 
 > 你可以拿这套理论来概括人类所有语言、思想
 
