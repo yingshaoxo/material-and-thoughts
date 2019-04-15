@@ -18,7 +18,7 @@ ___
 
 ___
 
-#### What going wrong in traditionally class?
+#### What going wrong in traditional class?
 
 1. Most teachers do teachings for money instead of for love about that subject. They do `inefficient and repeated boring teaching` for `class fee`. (For example, we could record the best video tutorial for once, and play it everywhere. We could create the best document, website, books in this world, then let students learn things by themselves, learn it by exploration)
 
@@ -39,3 +39,15 @@ ___
 5. 另外对于某些学科，它的本质不是`题目(问题)`。比如 English, 它的本质是一门语言，用来 communication and representation.
 
 > 解决方法: 强制改革，通过 Internet 发布高质量且免费的教学视频、文档、书籍，让学生拥有自学能力。(瞎做几百道题，不如通过`一步步彻底搞懂一道题`来`理解一类题`)
+
+___
+
+#### 自学
+
+学习的关键全在于 knowledge simplify.
+
+只有找到 common rules. 你才有可能适合不断变化的环境(题目)。
+
+嘴上说是`自学`，实际上还是要依靠别人，只不过不再局限于真人、不再局限于一个人。
+
+它可以是 data from the whole world. 用比较老的话讲: 整个世界都是我的老师。我爱我师，但我更爱真理。
