@@ -42,12 +42,14 @@ ___
 
 ___
 
-#### 自学
+#### 自学 (Self Taught)
 
-学习的关键全在于 knowledge simplify.
+The secret of learning is all about `knowledge simplify`.
 
 只有找到 common rules. 你才有可能适合不断变化的环境(题目)。
 
-嘴上说是`自学`，实际上还是要依靠别人，只不过不再局限于真人、不再局限于一个人。
+嘴上说是`自学`，实际上还是要依靠别人，只不过不再局限于`真人`、不再局限于`一个人`。
 
-它可以是 data from the whole world. 用比较老的话讲: 整个世界都是我的老师。我爱我师，但我更爱真理。
+它可以是 data from all over the world. 
+
+或者 用比较老的话讲: 整个世界都是我的老师。我爱我师，但我更爱真理。
