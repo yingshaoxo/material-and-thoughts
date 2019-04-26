@@ -53,3 +53,21 @@ The secret of learning is all about `knowledge simplify`.
 它可以是 data from all over the world. 
 
 或者 用比较老的话讲: 整个世界都是我的老师。我爱我师，但我更爱真理。
+
+___
+
+#### 什么样的人能成为知识精英 (What kind of guy can be good at learning?)
+
+1. know what they want to do. have a specific purpose.
+
+2. have a lot of resources (from the Internet)
+
+3. know what they can't do at that moment, know they have to improve themselves.
+
+4. never give up
+
+
+1. 有明确的学习目的（而不是什么都想学，什么都不会）
+2. 有很多资源 (`这里的资源`指`对同一种知识`的`不同形式`、`不同思维的人`的解释)
+3. 知道他们自身的局限、不足 (他们必须认错，必须承认他们的不足。不然如果他们是完美的，就没必要自我提升了)
+4. 永不放弃
