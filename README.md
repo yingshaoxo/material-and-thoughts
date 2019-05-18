@@ -1,12 +1,13 @@
-# Introduction
+# ﻿《物质与思想》
 
-著者:胡英杰 \(yingshaoxo\)
+著者:胡英杰 (yingshaoxo)
 
-传播者:请附上您的大名～^\_^
+传播者:请附上您的大名～^_^
 
 版权所有：每一个创造语言的人
 
-原文刊登地址：[https://yingshaoxo.gitbooks.io/-material-and-thoughts/content/](https://yingshaoxo.gitbooks.io/-material-and-thoughts/content/)
+原文刊登地址：https://yingshaoxo.gitbooks.io/-material-and-thoughts/content/
+___
 
 请先欣赏一部电影——《超验骇客》
 
@@ -22,7 +23,8 @@
 
 如觉得本书有错误之处，请以书面形式，附上对应证明一并发给我。
 
+___
+
 Telegram or Twitter: @yingshaoxo
 
 E-mail: yingshaoxo@gmail.com
-
