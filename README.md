@@ -6,7 +6,7 @@
 
 版权所有：每一个创造语言的人
 
-原文刊登地址：https://yingshaoxo.gitbooks.io/-material-and-thoughts
+原文刊登地址：https://yingshaoxo.gitbook.io/-material-and-thoughts
 
 PDF下载: https://github.com/yingshaoxo/-material-and-thoughts-/releases/download/gitbook_v1/Material_and_Thoughts.pdf
 ___
