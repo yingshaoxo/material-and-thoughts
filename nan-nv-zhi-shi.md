@@ -61,6 +61,8 @@ ___
 
 世界上男女的比例是 1:1，正常情况下，你不会永远是单身。机会是很多的。
 
+In China, 2019, a full sex deal only requires 300 RMB.
+
 ___
 
 #### How to become successful with sex
