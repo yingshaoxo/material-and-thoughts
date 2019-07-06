@@ -19,7 +19,7 @@
 ```
 ___
 
-#### What can you do with money
+#### What can you do with money?
 
 货币的本质是`一般等价物`，充当`需求交换`的媒介。
 
@@ -37,7 +37,7 @@ ___
 
 ___
 
-#### The essence of social development
+#### The feature of social development
 
 社会发展的实质是`需求交换`的不断加快（体现在货币上就是`交易数额`不断增加、`交易速度`不断加快）。
 
