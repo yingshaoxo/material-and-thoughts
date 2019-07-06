@@ -26,7 +26,7 @@ ___
 
 ___
 
-#### You will ask more
+#### You will ask for more
 
 ~~生存是为了繁殖后代，繁殖是为了延续生命，两者不可分割。~~
 
@@ -34,7 +34,7 @@ ___
 
 ___
 
-#### What is Benefits
+#### What is Benefits?
 
 `利益`像你的`半块蛋糕`。
 
@@ -97,7 +97,7 @@ ___
 
 ___
 
-#### The essence of morality
+#### What is morality?
 
 `道德`是带有`高级性`和`转折性`的`复杂利益规范`。
 
@@ -119,7 +119,7 @@ ___
 
 ___
 
-#### Why people stay together even if they thought things differently
+#### Why people stay together even if they thought things differently?
 
 思想不同，从根本上说是由于每个人`所关注的事物`不同、`对比的事物`不同。（如不同地域、不同种族蕴含不同的思想）
 
@@ -139,7 +139,7 @@ ___
 
 ___
 
-#### Benefit-taking mode can hide in any media
+#### Benefit-taking mode can be hidden in any media
 
 利益模式可通过音乐、影视等方式传播。
 
@@ -197,7 +197,7 @@ ___
 
 如临近大考，同学们会更亲近。而毕业后，随着同学间群体利益逐渐消失，感情也会慢慢变淡。
 
-有趣的是，一对仇人，在经历危机时利害一致，可能变成很好的朋友，因为他们深深了解对方(这样他们建的合约可能更精细，因为他们了解对方的需求)。
+~~有趣的是，一对仇人，在经历危机时利害一致，可能变成很好的朋友，因为他们深深了解对方(这样他们建的合约可能更精细，因为他们了解对方的需求)。~~
 
 如果人们没有一个共同的"敌人"，就不能结成一个利益共同圈(朋友圈)。
 
