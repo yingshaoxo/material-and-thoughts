@@ -22,30 +22,38 @@ It's so evil. But that's also why human-being could survive with this long time.
 
 同时，很多的证据表明，`传宗接代的生命物质(如精子或卵子)`的形成是需要大量营养的。如果你过度纵欲\(比如`手淫`\)，就会感到精力不够用，原本你可以写一整天的代码，纵欲后却感觉只想睡觉\(四肢无力、头脑木讷\)。
 
-In general, how you affected by sex is totally depends on how stressful you feel. If you feel like if you stop learning new stuff you will be abandoned or couldn't find a job to survive, you'll definitely drop the desire of sex.
-
-Meanwhile, if you feel like you live in a good situation, you'll do whatever you can to satisfy your desire for sex, for example, to watch porn videos.
-
 ## How to success without sex
 
-No way. Even if you want. Masturbation is also a kind of sexual activity.
+所以，很多的成功人士，在最开始的奋斗时期，擅长控制自己的性欲。\(如果你做不到，大概你也就是个普通人\)
+
+> 比如`马云`这样的人，因为外貌不好看，所以不能思考`谈恋爱这件事`，所以把`大量的精力`不分昼夜地花在工作上，最终成就了一番伟业
+
+如果你实在无法控制自己的性欲\(就像我一样\)，你可以尝试看`VR Porn`，那可以麻痹你的`脑神经`，让它以为你`做爱了`，实际上`你没做`。
+
+```text
+Every time after I finished watching a VR porn, the desire of masturbation or ejaculation will be gone for weeks.
+```
 
 ## Why you want a relationship?
 
-1. 你是为了`愉快的感觉`而`做爱`. \(快感`基于对比`，是用`平日的不痛不痒`换一瞬间的`神经刺激` \(To maximize the feeling, you should stay fucking but without ejaculation\)\)
-2. 你可以和任何与你`思想相近`、没有`太大价值观冲突的`人`循序渐进地`建立联系。\(如果价值观不同，一件事`一个人`认为`要做`\(他觉得有价值\)，而`另一个人`认为`不能做`\(她觉得没价值\)，那就没办法过日子了。\)
-3. `恋爱对象的选择`确实有一些`固定的规则`，有一些是`全球性的`\(比如男女年龄相近、女生矮男生半个头、男女肤色相近、胖是不健康和懒惰的表现 等\)，而另一些则是`民族性的`\(比如`中国美人`不一定是`世界美人`、`中国黑皮肤的人`在`非洲`不算黑 等\)。
+当你了解这些事实之后，你便对你的`恋爱需求`有了更深刻的认识。
+
+1. 你不是为了`做爱(快感)`而`做爱`，因为那除了`对生命、能量的浪费`以外毫无意义。\(快感也是`基于对比的`，是用`平日的不痛不痒`换一瞬间的`神经刺激` \(或者换一种观点讲: 为了廉价的快感, you should stay fucking but without ejaculation\)\)
+2. 你可以和任何与你`思想相近`、没有`太大价值观冲突的`人`循序渐进地`建立联系。\(如果价值观不同，一件事`一个人`认为`要做`\(他觉得有价值\)，而`另一个人`认为`不能做`\(她觉得没价值\)，那就没办法过日子了。毕竟`以合为贵`、`齐心协力`才能创造更大的价值\)
+3. `恋爱对象的选择`确实有一些`固定的规则`，有一些是`全球性的`\(比如男女年龄相近、女生矮男生半个头、男女肤色相近、胖是不健康的表现 等\)，而另一些则是`民族性的`\(比如`中国美人`不一定是`世界美人`、`中国黑皮肤的人`在`非洲`不算黑 等\)。
 
 ## Funny facts
 
 接下来谈一谈一些有趣的事实:
 
 * 女生为什么喜欢有身高的男性? 因为身高是 dick 长度的外在表现，身体越高，dick 越长。
-* 男生为什么喜欢白净对称的女性？因为一般拥有这些特质的女性更加的健康，更加的没经历过苦日子，更有可能是贵族出身。通过征服她，你更有一种虚荣感，就像蛤蟆吃了天鹅肉。
+* 男生为什么喜欢白净对称的女性？因为一般拥有这些特质的女性更加的健康，更加的没经历过苦日子，更适合生孩子。
 * 世界上男女的比例是 1:1，正常情况下，你不会永远是单身。机会是很多的。
 * In China, 2019, a full sex deal only requires 300 RMB.
 
 ## How to become successful with sex
 
-I don't know.
+提高自控能力。
+
+比如看片、自慰，但就是不射。当你学会了控制自己的高潮，基本上你就能控制你全身的每一个地方了\(你想做什么就能做什么，懒惰这时会和你说拜拜\)。
 
