@@ -74,6 +74,8 @@
 
 > 但不管怎样，你不让人说那就太过分了。他说得好有人看，他说得差就没人看，完全是自平衡嘛。\(说得好 是指 对信息接收者有好处\)
 
+I believe anyone should have the right to speak. And also, everyone should have the right to not listen.
+
 ## Programming: a new generation of math
 
 Math + English + Programming 是绑在一起的
@@ -156,8 +158,8 @@ Everything human can't do, reinforcement learning can do.
 
 ## **言论或语言的作用：** \(Why you need a speech?\)
 
-1. 传播知识 - 所谓知识，无非就是一种预测方法让你能够预测未来，比如 高锰酸钾+加热=氧气（火+生物=死尸\)。--- `智力的本质体现是预测的时间长度与准确率`，这个我之前讲过
-2. 煽动别人做事 - 通过改变人的思想\(改变逻辑链条、前因后果，从而改变预测结果\)，来让他们做出发言者预料到的事。--- 如政治宣传机器\(各种TV、报纸、radio\)
+1. 传播知识。所谓知识，无非就是一种预测方法让你能够预测未来，比如 高锰酸钾+加热=氧气（火+生物=死尸\)。--- `智力的本质体现是预测的时间长度与准确率`，这个我之前讲过
+2. 煽动别人做事。通过改变人的思想\(改变逻辑链条、前因后果，从而改变预测结果\)，来让他们做出发言者预料到的事。--- 如政治宣传机器\(各种TV、报纸、radio\)
 
 > 你可以拿这套理论来概括人类所有语言、思想
 
@@ -175,4 +177,8 @@ Everything human can't do, reinforcement learning can do.
 Make a deal that unfair and unwanted.
 
 一切罪恶都源于不自愿、不平等的交易。
+
+> I have noticed some media reports in China, they wanna say some other country was evil, but they can't give you any proof that that country was making an unwanted deal with others. The word 'unfair' is subjective unless you add a timestamp to it. As long as you feel it is fair when you make that deal, it is fair. You shouldn't judge it when after you made that deal. Because that's how business works, some won, some lost.
+
+**你不能只靠“不公平”来评判一项交易。只要你有自主选择权，在做那笔交易时有说 No 的权利，那便是公平的交易。因为那是你自愿达成的。**
 
