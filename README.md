@@ -10,7 +10,7 @@
 
 原文刊登地址: [https://github.com/yingshaoxo/-material-and-thoughts-](https://yingshaoxo.gitbook.io/material-and-thoughts/)
 
-Licences: GNU General Public License
+Licence: GNU General Public License
 
 ## At the beginning
 
