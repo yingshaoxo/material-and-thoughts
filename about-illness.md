@@ -1,6 +1,10 @@
-# 关于病痛
+# About illness
 
-首先，非先天的病都是由生活、饮食习惯造成的。
+**What you are depends on what you eat, where you live, what you do.** 
+
+**Ask yourself and your parents before you start to blame the god.**
+
+非先天的病都是由生活、饮食习惯造成的。
 
 这里的`生活习惯`指: 在什么地方生活、每天做哪些固定的事情 \(比如 是否有某种类型的身体锻炼，是否用某种类型的杀菌产品\)
 
