@@ -2,13 +2,15 @@
 
 ## About
 
-著者:胡英杰 \(yingshaoxo\)
+著者: 胡英杰 \(yingshaoxo\)
 
-传播者:请附上您的大名～^\_^
+传播者: 请附上您的大名～^\_^
 
-版权所有：每一个创造语言的人
+版权所有: 每一个创造语言的人
 
-原文刊登地址：[https://github.com/yingshaoxo/-material-and-thoughts-](https://yingshaoxo.gitbook.io/material-and-thoughts/)
+原文刊登地址: [https://github.com/yingshaoxo/-material-and-thoughts-](https://yingshaoxo.gitbook.io/material-and-thoughts/)
+
+Licences: GNU General Public License
 
 ## At the beginning
 
