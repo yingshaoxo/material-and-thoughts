@@ -8,9 +8,7 @@
 
 版权所有：每一个创造语言的人
 
-原文刊登地址：[https://github.com/yingshaoxo/-material-and-thoughts-](https://github.com/yingshaoxo/-material-and-thoughts-)
-
-PDF下载: [https://github.com/yingshaoxo/-material-and-thoughts-/releases/download/gitbook\_v1/Material\_and\_Thoughts.pdf](https://github.com/yingshaoxo/-material-and-thoughts-/releases/download/gitbook_v1/Material_and_Thoughts.pdf)
+原文刊登地址：[https://github.com/yingshaoxo/-material-and-thoughts-](https://yingshaoxo.gitbook.io/material-and-thoughts/)
 
 ## At the beginning
 

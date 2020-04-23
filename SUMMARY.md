@@ -24,7 +24,7 @@
 * [About AI](about-ai.md)
 * [About Education](about-education.md)
 * [About Programming](about-programming.md)
-* [关于病痛](guan-yu-bing-tong.md)
+* [About illness](about-illness.md)
 * [About Life](about-life.md)
 * [关于本书与作者](guan-yu-ben-shu-yu-zuo-zhe.md)
 * [The End](the-end.md)
