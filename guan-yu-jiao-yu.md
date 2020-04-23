@@ -33,7 +33,7 @@
 
 The secret of learning is all about `knowledge simplify`.
 
-只有找到 common rules. 你才有可能适合不断变化的环境\(题目\)。
+只有找到 common rules. 你才有可能适应不断变化的环境\(题目\)。
 
 嘴上说是`自学`，实际上还是要依靠别人，只不过不再局限于`真人`、不再局限于`一个人`。
 
@@ -44,7 +44,7 @@ The secret of learning is all about `knowledge simplify`.
 ```text
 这一段引用自 波特兰花：
 
-总之，中国教育的目的是提升人群的整体文化水平，而美国教育的目的是培养精英。
+总之，中国教育的目的是提升人群的整体文化水平(以及洗脑)，而美国教育的目的是培养精英。
 
 中国基础教育的口号是“学！学！学！”，而美国是“爱学不学！”
 
