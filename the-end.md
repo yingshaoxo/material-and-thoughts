@@ -1,5 +1,11 @@
 # The End
 
+## Best wishes
+
+**I hope every programmer could get what he need from this book.**
+
+## **For Chinese Readers**
+
 肯定会有人反对本书，并提出完全相反的理论。
 
 那样我会很高兴，因为这符合本书所述的认知规律。

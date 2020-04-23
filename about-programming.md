@@ -1,6 +1,8 @@
-# 关于编程
+# About Programming
 
-同学们，我们不是在学编程，我们是在学英语和数学。 \(Dear students, we are not learning programming, we are learning English and mathematics.\)
+同学们，我们不是在学编程，我们是在学英语和数学。
+
+Dear students, we are not learning programming, we are learning English and mathematics.
 
 Dear students, we are not learning English and Mathematics, we are learning how to represent and how to do logical calculation.
 
