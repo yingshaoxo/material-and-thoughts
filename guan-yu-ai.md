@@ -10,3 +10,9 @@
 
 > 改变世界的科技创新，都是无中生有，靠实验出来的
 
+## Two ways of learning
+
+`Supervised learning` is more like `intelligence transferring`. It based on `existed labeled data`, the more resource you get, the more intelligent you'll be. 
+
+But `reinforcement learning` is different, wisdom comes from none. Even if you don't have good data, as long as you are in `a regular world that was ruled by natural`, you can get wisdom or intelligence by `experiments`.
+
