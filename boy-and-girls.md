@@ -50,6 +50,7 @@ No way. Even if you want. Masturbation is also a kind of sexual activity.
 * 男生为什么喜欢白净对称的女性？因为一般拥有这些特质的女性更加的健康，更加的没经历过苦日子，更有可能是贵族出身。通过征服她，你更有一种虚荣感，就像蛤蟆吃了天鹅肉。
 * 世界上男女的比例是 1:1，正常情况下，你不会永远是单身。机会是很多的。
 * In China, 2019, a full sex deal only requires 300 RMB.
+* Some people may find that Advanced Japanese Sex Toys may better than real humans.
 
 ## How to become successful with sex
 
