@@ -32,7 +32,7 @@ In general, how you affected by sex is totally depends on how stressful you feel
 
 Meanwhile, if you feel like you live in a good situation, you'll do whatever you can to satisfy your desire for sex, for example, to watch porn videos.
 
-## How to success without sex
+## How to be succeeded without sex
 
 No way. Even if you want. Masturbation is also a kind of sexual activity.
 
