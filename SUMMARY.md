@@ -19,7 +19,7 @@
 * [我对文学、影视、音乐等作品的看法](wo-dui-wen-xue-3001-ying-shi-3001-yin-le-deng-zuo-pin-de-kan-fa.md)
 * [我对人事的看法](wo-dui-ren-shi-de-kan-fa.md)
 * [解析语言与思维、认知、行动等间的关系](jie-xi-yu-yan-yu-si-wei-3001-ren-zhi-3001-xing-dong-deng-jian-de-guan-xi.md)
-* [Rules for Human General Relationship](tong-su-ren-ji-guan-xi-jie-xi.md)
+* [Rules for Human General Relationship](rules-for-human-general-relationship.md)
 * [Boy and Girls](boy-and-girls.md)
 * [About AI](about-ai.md)
 * [About Education](about-education.md)
