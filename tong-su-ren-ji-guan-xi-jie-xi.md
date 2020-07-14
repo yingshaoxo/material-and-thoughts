@@ -17,7 +17,7 @@
 
 * `positive energy > negative energy`, `(positive energy - negative energy) > a value that you can endure`: You take revenge. Take what you deserve from others. You can even add that guy to a blacklist.
 * `negative energy > positive energy`, `(negative energy - positive energy) > a value that others can endure`: Others take revenge on you. They'll get what they deserve from you. You'll be added to their friendship blacklist.
-* You'll be more likely to make a deal with someone who has a higher `balanced counting`. For those people, we would like to call them friends.
+* You'll be more likely to make a deal with someone who has a higher \`balanced counting\`. For those people, we would like to call them friends.
 
 
 
@@ -126,7 +126,7 @@ if __name__ == "__main__":
 
 > Now you know how to represent the friendship with a math model, it is good. You can then use it to create an AI that has something people called 'EQ'.
 
-> Here the `positive energy` and `negative energy`, they are just variables. In the real-world, energy only has a size, no features like positive or negative.
+> Here the `positive energy` and `negative energy`, they are just variables. In real world, energy only has a size, no features like positive or negative.
 
 ## 人际关系的利益学算法：
 
