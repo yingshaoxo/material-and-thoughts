@@ -1,5 +1,9 @@
 # Rules for Human General Relationship
 
+## All in all
+
+How you treat others is how others treat you.
+
 ## The Algorithm:
 
 1. We create a panda table, each row has 4 properties: name, positive energy, negative energy, positive and negative energy balanced counting.
