@@ -51,6 +51,7 @@ No way. Even if you want. Masturbation is also a kind of sexual activity.
 * 世界上男女的比例是 1:1，正常情况下，你不会永远是单身。机会是很多的。
 * In China, 2019, a full sex deal only requires 300 RMB.
 * Some people may find that Advanced Japanese Sex Toys may better than real humans.
+* 非付费聊天情景，`聊天回复比`是对方对你是否感兴趣的一个风向标，比如你发n条消息，女神只回复你3个字，说明女神对你不感兴趣。\(极端情况是沉默，沉默意味着拒绝\)
 
 ## How to become successful with sex
 
