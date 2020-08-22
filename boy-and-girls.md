@@ -52,6 +52,7 @@ No way. Even if you want. Masturbation is also a kind of sexual activity.
 * In China, 2019, a full sex deal only requires 300 RMB.
 * Some people may find that Advanced Japanese Sex Toys may better than real humans.
 * 非付费聊天情景，`聊天回复比`是对方对你是否感兴趣的一个风向标，比如你发n条消息，女神只回复你3个字，说明女神对你不感兴趣。\(极端情况是沉默，沉默意味着拒绝\)
+* 每一个正常人都有性欲，这无法避免。但是性欲的累积速度却是可以控制的。比如不看裸露的肉体，可以减缓性欲的积累、推迟性欲的爆发。
 
 ## How to become successful with sex
 
