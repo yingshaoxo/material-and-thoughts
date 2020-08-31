@@ -58,3 +58,5 @@ No way. Even if you want. Masturbation is also a kind of sexual activity.
 
 I don't know.
 
+When I say this, I mean, I have never had sex with anybody. \(But maybe one day I will, I can wait.\)
+
