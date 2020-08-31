@@ -26,6 +26,7 @@
 * [About Programming](about-programming.md)
 * [About illness](about-illness.md)
 * [About Life](about-life.md)
+* [References](references.md)
 * [关于本书与作者](guan-yu-ben-shu-yu-zuo-zhe.md)
 * [The End](the-end.md)
 
