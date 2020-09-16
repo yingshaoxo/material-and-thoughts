@@ -36,6 +36,8 @@ Meanwhile, if you feel like you live in a good situation, you'll do whatever you
 
 No way. Even if you want. Masturbation is also a kind of sexual activity.
 
+> 但是对于一个纯粹理性的人来说。在经历了几次`求偶被拒` 之后，便会因为深感`社会现实`而失去浓烈的性欲。\(动机大概是这样的: 我为什么被拒绝？因为没钱、没权。我为什么没钱、没权？ 我为什么不能有钱、有权？ 想女人，想做爱并不能变得有钱、有权。我必须把精力和时间放在研究怎样变得有钱、有权之上。\)
+
 ## Why you want a relationship?
 
 1. 你是为了`愉快的感觉`而`做爱`. \(快感`基于对比`，是用`平日的不痛不痒`换一瞬间的`神经刺激` \(To maximize the feeling, you should stay fucking but without ejaculation\)\)
