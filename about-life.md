@@ -14,3 +14,5 @@ Control yourself means to control every part of you.
 
 It also means sometimes, you have to do what you dislike to do if it gets benefits in a long term.
 
+> 极度自律的人，往往欲望也极强烈（也就是贪婪）。自律的实质是为了满足更大的欲望，放弃当下的小欲望。得过且过，安分守己的人从来都和自律不沾边，因为没有太多欲望。 --- Made by 章工
+
