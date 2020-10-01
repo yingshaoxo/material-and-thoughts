@@ -234,5 +234,5 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 > 也许我可以先写一个列表，上面记录着我没有做过或体验过的事情，然后带着女方去做一下。毕竟再不做就老了。\(我可是连星巴克都没有去过的男人\)
 
-
+* 吃饭: 西餐厅
 
