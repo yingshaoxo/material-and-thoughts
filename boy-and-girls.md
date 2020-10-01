@@ -123,3 +123,9 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 > 这个可以，现实中说不出来的话，通过邮箱，就很好表达了。
 
+### 他需她要
+
+婚姻的核心: 互相需要。
+
+> 这个很好理解。朋友之间也是这样。但对于我来说，其实很困难，我是一个独自宅在家半年都没有问题的人。我很难会需要某个人。
+
