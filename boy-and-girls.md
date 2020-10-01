@@ -161,3 +161,9 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 > 我可以接受不生孩子。
 
+
+
+婆媳间矛盾大。
+
+> 分居，尽量让她们俩分开。然后如果媳妇理性，依照媳妇的意见办。如果不理性，我们根本不会结婚，不结婚就没有这个矛盾。
+
