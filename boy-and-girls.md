@@ -167,3 +167,9 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 > 分居，尽量让她们俩分开。然后如果媳妇理性，依照媳妇的意见办。如果不理性，我们根本不会结婚，不结婚就没有这个矛盾。
 
+
+
+面对父母催婚: 表明态度，温和而坚定。
+
+> 你也可以和父母分居，这个最简单。
+
