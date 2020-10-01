@@ -321,5 +321,15 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 > 实际上，这只是增加交互的一个方法。
 
+#### 条件反射催眠法
+
+你在想做某件事的时候，你做一个固定的动作。
+
+#### 称呼催眠法
+
+使用积极向上、亲密的称号。
+
+> 我可能会用 “sweet”、“bady”、亲爱的
+
 
 
