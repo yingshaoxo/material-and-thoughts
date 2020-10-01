@@ -139,7 +139,7 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 
 
-写一个列表，写下共同的爱好或想做的事情。然后每周末花一天时间和爱人完成一些事件。
+写一个列表，写下共同的爱好或想做的事情。然后每周末花一天时间和爱人完成一些事件 或者 单纯的促膝长谈。
 
 
 
@@ -172,4 +172,16 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 面对父母催婚: 表明态度，温和而坚定。
 
 > 你也可以和父母分居，这个最简单。
+
+
+
+晒娃党的本质是妈妈没有自己的人生。其价值依赖于孩子。
+
+泼妇心态，能反映出这个人的道德素养比较低。
+
+
+
+如何被人嫌弃: 1. 监控、控制对方。2. 我说的都是对的。3. 你永远都对不起我。
+
+> 不把对方当成一个对等的人来看。对方当然也不会尊重你。\(How you treat others is how others treat you\)
 
