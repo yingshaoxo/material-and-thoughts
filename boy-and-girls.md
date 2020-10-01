@@ -331,5 +331,9 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 > 我可能会用 “sweet”、“bady”、亲爱的
 
+#### 朋友圈催眠法
 
+让朋友们从侧面在对方面前夸你。
+
+> 这个就看你的人品了。不过人是相互的，你经常从背后夸别人，别人大概率也会这么对你。
 
