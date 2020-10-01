@@ -157,7 +157,7 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
  
 
-她们认为孩子是第一位。
+她们以孩子为中心。
 
 > 我可以接受不生孩子。
 
