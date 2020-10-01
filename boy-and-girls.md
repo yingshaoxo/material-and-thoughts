@@ -149,3 +149,15 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 少一点抱怨，多一点赞美。
 
+### 中国式的情与爱
+
+中国人喜欢谈钱、地位，而不是谈爱情。
+
+> 主要原因: 1. 普遍穷。2. 年轻人婚姻不能自主，由父母长辈主导。
+
+ 
+
+她们认为孩子是第一位。
+
+> 我可以接受不生孩子。
+
