@@ -103,5 +103,9 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 
 
+女人需要持续不断的投入。
+
+> 人与人之间的关系也是持续不断的啊，不能是一锤子买卖。一锤子买卖那是交易。比如土豪搞保养，不能一次给完啊，得分期付款啊。
+
 
 
