@@ -135,6 +135,8 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 男人需要性。
 
+> 我已经废了。我只能从前戏、后戏、工具链上下功夫。
+
 
 
 写一个列表，写下共同的爱好或想做的事情。然后每周末花一天时间和爱人完成一些事件。
@@ -142,4 +144,8 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 
 家务需要平分。
+
+
+
+少一点抱怨，多一点赞美。
 
