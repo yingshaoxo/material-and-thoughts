@@ -57,7 +57,15 @@ No way. Even if you want. Masturbation is also a kind of sexual activity.
 * 同样的时间和精力，花在`自我提升上`比花在`追求女人上`，男人的收益要高不少。前者的投入对全体女人有效，后者只对部分女人有效（追求目标）。在追女人这件事上投入过多的风险在于：一旦追求失败，之前的投入就打水漂了，血本无归；而提升自己的`收益积累`则可持续增加，并有助于吸引更多更好的女人。------------ made by 章工
 * 异性之间最美妙的阶段，是关系未定，有浅浅暧昧的时候，因为会对美好有憧憬。无论选择在一起，还是结束，都要面对诸多现实。只要不是欺骗和备胎，暧昧大概是男女之间最棒的相处氛围。当然这只是一个阶段，可能是磨合，也可能什么都不是。这时谁也不耽搁谁，也没资格要求对方去做承诺，所以负担最轻。------------ made by 章工
 
-## 进化心理学
+## How to become successful with sex
+
+I don't know.
+
+When I say this, I mean, I have never had sex with anybody. \(But maybe one day I will, I can wait.\)
+
+## Mix
+
+### 进化心理学
 
 女性对男人的要求: 有经济权力资源、发展潜力，身体健康，成熟稳重，重视承诺，愿意为女人付出。因为这些东西是生存资源。\(能提升女性的生存几率\)
 
@@ -65,9 +73,19 @@ No way. Even if you want. Masturbation is also a kind of sexual activity.
 
 > 另外，我个人还想补充一点： 有些人可能是因为虚荣心而找对象。比如总想找一个比别人找的对象更好的对象。
 
-## How to become successful with sex
+### 男人来自火星，女人来自金星
 
-I don't know.
+男人喜欢解决问题，但女人更喜欢倾诉\(抱怨\)、减压、缓解情绪。
 
-When I say this, I mean, I have never had sex with anybody. \(But maybe one day I will, I can wait.\)
+> 我也喜欢解决问题，而且我觉得解决问题才是最好的一劳永逸的减少压力的办法。
+
+男人工作累了想静一静，女人工作累了想找人说说话。
+
+> 行，那我就听你讲吧。听着听着我就开始给你讲讲我的压力。看你有没有什么意见。
+
+男人喜欢用语言传达有效信息，女人喜欢用语言传递情绪信息\(很夸张、也很低效，真实含义需要男人自己去猜\)。
+
+
+
+
 
