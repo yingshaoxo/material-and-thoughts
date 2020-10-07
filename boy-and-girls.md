@@ -339,7 +339,9 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 > 这个就看你的人品了。不过人是相互的，你经常从背后夸别人，别人大概率也会这么对你。
 
-### Pause for awhile
+#### Pause forever?
 
-东西有点多，似乎让人消化不了，等过一段时间接着写。
+也许让动物的本能来处理这个问题会更好。
+
+让理性在这个领域死亡吧！
 
