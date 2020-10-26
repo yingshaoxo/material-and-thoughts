@@ -539,5 +539,5 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 但我又不是guy，我不喜欢男人。
 
-终于我把我给认清了。\(在悟到这个东西的那瞬间，我有些震撼\)
+终于我把我给认清了。\(在悟到这个东西的那瞬间，我被震撼到了\)
 
