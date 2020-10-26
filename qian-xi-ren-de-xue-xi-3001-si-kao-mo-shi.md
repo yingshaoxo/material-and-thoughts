@@ -30,3 +30,11 @@
 
 而`supervised learning`不能，它只能让你的知识 &lt; = 你老师
 
+## State of art
+
+Work or Think like a water flow without any blocking or hesitating. 
+
+Smooth predicting while holding high accuracy. \(High FPS + High Correct Rate\)
+
+If a human wants to get into this state, it needs to be 100% concentrate on their jobs.
+
