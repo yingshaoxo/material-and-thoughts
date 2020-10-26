@@ -36,5 +36,5 @@ Work or Think like a water flow without any blocking or hesitating.
 
 Smooth predicting while holding high accuracy. \(High FPS + High Correct Rate\)
 
-If a human wants to get into this state, it needs to be 100% concentrate on their jobs.
+If a human wants to get into this state, it needs 10000 hours of practice and be able to 100% concentrate on their jobs.
 
