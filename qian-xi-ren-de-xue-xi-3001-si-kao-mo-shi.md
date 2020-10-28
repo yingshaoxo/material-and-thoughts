@@ -38,3 +38,8 @@ Smooth predicting while holding high accuracy. \(High FPS + High Correct Rate\)
 
 If a human wants to get into this state, it needs 10000 hours of practice and be able to 100% concentrate on their jobs.
 
+## The best way of learning
+
+* learn by doing
+* learn by teaching \(Teaching is not the final goal. The final goal is knowledge simplification.\)
+
