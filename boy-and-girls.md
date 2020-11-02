@@ -80,6 +80,8 @@ No way. Even if you want. Masturbation is also a kind of sexual activity.
 >
 > 每隔3个月烫个头，顺便叫发型师做个头型。
 
+* 我比较讨厌女性性格中的一点: 她喜欢你的地方，不告诉你; 她讨厌你的地方，也不告诉你。\(于是，你再也没有机会提升你自己，如果你悟性\(or智商\)不够的话。一切，都靠猜。\)
+
 ## How to become successful with sex
 
 I don't know.
