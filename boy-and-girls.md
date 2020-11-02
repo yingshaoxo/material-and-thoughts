@@ -137,7 +137,7 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 男人需要性。
 
-> 我已经废了。我只能从前戏、后戏、工具链上下功夫。
+> ~~我已经废了。我只能从前戏、后戏、工具链上下功夫。~~ I have solved this problem with my magic brain. Now I could do the fucking at least 15 minutes without Ejaculation.
 
 
 
@@ -161,7 +161,7 @@ When I say this, I mean, I have never had sex with anybody. \(But maybe one day 
 
 她们以孩子为中心。
 
-> 我可以接受不生孩子。
+> 我可以接受不生孩子。我的意思是，你要生也可以，就是我觉得压力太大，想想我自己就知道了。
 
 
 
