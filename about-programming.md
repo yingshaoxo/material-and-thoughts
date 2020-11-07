@@ -22,3 +22,11 @@ Also, you don't have to remember math formulas to calculate, you just have to re
 
 更有甚者，你若是个全才，精通本书以及人性学、利益学、社会学、心理学，你还可以自己动手，主动参加政治活动，去改变这个环境。\(但如果中途惨死，不要怪我没提醒过你“`逃跑的成功机率` 比 `改变一个国家的性质的成功机率` 高很多“\)
 
+## About Open Source
+
+Where has open-source, where has poverty.
+
+Where has closed-source, where has money.
+
+
+
