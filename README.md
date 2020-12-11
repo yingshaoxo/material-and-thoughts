@@ -10,6 +10,8 @@ Support Me With Your Amazing Money:
 
 著者: 胡英杰 \(yingshaoxo\)
 
+![](.gitbook/assets/me.jpeg)
+
 传播者: 请附上您的大名～^\_^
 
 原文刊登地址: [https://github.com/yingshaoxo/-material-and-thoughts-](https://yingshaoxo.gitbook.io/material-and-thoughts/)
