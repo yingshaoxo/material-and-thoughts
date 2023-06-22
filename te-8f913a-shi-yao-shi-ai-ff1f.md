@@ -11,4 +11,3 @@ I love my country → My country! → I will protect my country.
 I love my lady → My lady! → I will protect my lady.
 
 **One thing I need to tell you, I want to protect your freedom.**
-

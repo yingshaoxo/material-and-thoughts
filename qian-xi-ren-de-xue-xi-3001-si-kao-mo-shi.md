@@ -28,18 +28,17 @@
 
 `reinforcement learning`可以让你超越老师、超越人体极限
 
-而`supervised learning`不能，它只能让你的知识 &lt; = 你老师
+而`supervised learning`不能，它只能让你的知识 < = 你老师
 
 ## State of art
 
-Work or Think like a water flow without any blocking or hesitating. 
+Work or Think like a water flow without any blocking or hesitating.&#x20;
 
-Smooth predicting while holding high accuracy. \(High FPS + High Correct Rate\)
+Smooth predicting while holding high accuracy. (High FPS + High Correct Rate)
 
 If a human wants to get into this state, it needs 10000 hours of practice and be able to 100% concentrate on their jobs.
 
 ## The best way of learning
 
 * learn by doing
-* learn by teaching \(Teaching is not the final goal. The final goal is knowledge simplification.\)
-
+* learn by teaching (Teaching is not the final goal. The final goal is knowledge simplification.)

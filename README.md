@@ -12,7 +12,7 @@ Support Me With Your Amazing Money:
 
 ## About
 
-著者: 胡英杰 \(yingshaoxo\)
+著者: 胡英杰 (yingshaoxo)
 
 ![](.gitbook/assets/me.jpeg)
 
@@ -43,4 +43,3 @@ Licence: GNU General Public License
 Telegram or Twitter: @yingshaoxo
 
 E-mail: yingshaoxo@gmail.com
-

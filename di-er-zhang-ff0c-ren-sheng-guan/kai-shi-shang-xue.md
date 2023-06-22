@@ -2,7 +2,7 @@
 
 人脑如计算机，智商高像2G内存，智商低像1G内存，但真正起作用的是程序。即使是256M也可以运行一个实用的程序。
 
-> 刷盘子递碗，类似的简单劳动虽然不是高脑力活，却始终需要人\(或者机器人\)去做
+> 刷盘子递碗，类似的简单劳动虽然不是高脑力活，却始终需要人(或者机器人)去做
 
 ## Power
 
@@ -22,13 +22,13 @@
 
 但是效率的提升只对个体有好处，如果大家都变高效，那就没人高效，因为任何`形容词`都基于对比。
 
-对于国家而言，也是如此，掌握核心科技让自己变强总是没错的。\(前提是其他国家搞不出来\)
+对于国家而言，也是如此，掌握核心科技让自己变强总是没错的。(前提是其他国家搞不出来)
 
 ## Data
 
 所有的程序不过是对数据进行处理。计算机是计算什么的呢？数据。数据的另一个称呼是信息，所以有“信息技术”这个词。
 
-人所有的脑力活动也是对数据进行处理。综合看来，电脑是对人脑的外延\(外部延伸\)、是人类改造世界的有力工具。
+人所有的脑力活动也是对数据进行处理。综合看来，电脑是对人脑的外延(外部延伸)、是人类改造世界的有力工具。
 
 文字是数据的表现方式之一。数据的本质是事物的差异。对于计算机来说0.5和1/2没区别，代表同样的概率。所有事物的差异都可以用数字的大小关系等价代换。
 
@@ -70,9 +70,9 @@
 
 虽然大多数人都这样做，但还是摆脱不了自然交流的欲望，所以他们需要言谈类节目 from radio or video.
 
-所以真理是：小部分人说，大部分人听，而被倾听则成为享受\(多数人追求的目标\) 。
+所以真理是：小部分人说，大部分人听，而被倾听则成为享受(多数人追求的目标) 。
 
-> 但不管怎样，你不让人说那就太过分了。他说得好有人看，他说得差就没人看，完全是自平衡嘛。\(说得好 是指 对信息接收者有好处\)
+> 但不管怎样，你不让人说那就太过分了。他说得好有人看，他说得差就没人看，完全是自平衡嘛。(说得好 是指 对信息接收者有好处)
 
 I believe anyone should have the right to speak. And also, everyone should have the right to not listen.
 
@@ -98,7 +98,7 @@ Math 提供理论，English 负责表示，Programming 负责实现
 
 We just use numbers to measure the difference, in this way, it can be accuracy. That's the power of mathematics.
 
-Based on that, you got physical, chemical and biological. With those, you can create machines \(like a computer\), control reaction of materials, change the human body, and so on. That's the power of human being.
+Based on that, you got physical, chemical and biological. With those, you can create machines (like a computer), control reaction of materials, change the human body, and so on. That's the power of human being.
 
 In the end, came history, politics, and geography. It was related to profit distribution, mind control, and strategy of war and peace. That's the power of leaders
 
@@ -116,7 +116,7 @@ In the end, came history, politics, and geography. It was related to profit dist
 
 这实际上是在考验群体的智慧，我认为群体不可能在事件一开始就正确判定是否真对他们有利。
 
-> 虽然感觉有点违心，但在一个发展中国家，你这么做能获得较大收益，因为这时社会上所谓的创新，全是剽窃的发达国家的东西。\(已经经过发达国家检验有效的东西，高几率同样适用于发展中国家\)
+> 虽然感觉有点违心，但在一个发展中国家，你这么做能获得较大收益，因为这时社会上所谓的创新，全是剽窃的发达国家的东西。(已经经过发达国家检验有效的东西，高几率同样适用于发展中国家)
 
 ## Rationality
 
@@ -126,7 +126,7 @@ In the end, came history, politics, and geography. It was related to profit dist
 
 > 说这番话主要是为了抨击那些 整天扯`感性`与`理性`的人。
 
-那些在外省能考清华北大的，从能力上，早就达到了大学的水准\(所掌握的东西是大学的超集\)
+那些在外省能考清华北大的，从能力上，早就达到了大学的水准(所掌握的东西是大学的超集)
 
 > 如果你做到了后半句，然后你没考上大学，我劝你赶紧离开那个垃圾的教育体制。因为那已经不是教育体制，而是吃人体制。
 
@@ -146,28 +146,28 @@ Everything human can't do, reinforcement learning can do.
 
 > 就怕你保持不住，Passion 这个东西，很难获得的，你要迷信你要做的事能给你带来收益。
 
-## **两种判断事物正确与否的标准：** \(Two ways to know if it's right\)
+## **两种判断事物正确与否的标准：** (Two ways to know if it's right)
 
-1.经济利益，对自己有好处那方永远是对的 \(生物要生存所必要的处事方法
+1.经济利益，对自己有好处那方永远是对的 (生物要生存所必要的处事方法
 
-2.在同一套世界观下、在同一个认知体系下，符合观察、事实和逻辑 \(生物要进化所必要的科学方法
+2.在同一套世界观下、在同一个认知体系下，符合观察、事实和逻辑 (生物要进化所必要的科学方法
 
-他们共同配合，共同推动历史发展 \(前者从其他人类那里汲取利益，后者从大自然汲取利益
+他们共同配合，共同推动历史发展 (前者从其他人类那里汲取利益，后者从大自然汲取利益
 
 > 基本上可以拿来概括所有的观点、 立场
 
-## **言论或语言的作用：** \(Why you need a speech?\)
+## **言论或语言的作用：** (Why you need a speech?)
 
-1. 传播知识。所谓知识，无非就是一种预测方法让你能够预测未来，比如 高锰酸钾+加热=氧气（火+生物=死尸\)。--- `智力的本质体现是预测的时间长度与准确率`，这个我之前讲过
-2. 煽动别人做事。通过改变人的思想\(改变逻辑链条、前因后果，从而改变预测结果\)，来让他们做出发言者预料到的事。--- 如政治宣传机器\(各种TV、报纸、radio\)
+1. 传播知识。所谓知识，无非就是一种预测方法让你能够预测未来，比如 高锰酸钾+加热=氧气（火+生物=死尸)。--- `智力的本质体现是预测的时间长度与准确率`，这个我之前讲过
+2. 煽动别人做事。通过改变人的思想(改变逻辑链条、前因后果，从而改变预测结果)，来让他们做出发言者预料到的事。--- 如政治宣传机器(各种TV、报纸、radio)
 
 > 你可以拿这套理论来概括人类所有语言、思想
 
-### **点评：** \(My point of view\)
+### **点评：** (My point of view)
 
-1. 我觉得还是言论自由比较好，每个人都可以发表自己的言论\(对事物的认知\)。
+1. 我觉得还是言论自由比较好，每个人都可以发表自己的言论(对事物的认知)。
 2. 基于不同的认知，人们会做出不同的行为去尝试实现个人利益相对最大化。
-3. 在初期，可能只有一个人找到了相对最优解，但在后期，随着这个成功者获得更多的关注，他的思想言论会被人们传播、尊崇，从而让整个社会的智力得到提升。\(整个社会相对于之前，预测能力变强了，但对比起同时代其他人，没啥区别\)
+3. 在初期，可能只有一个人找到了相对最优解，但在后期，随着这个成功者获得更多的关注，他的思想言论会被人们传播、尊崇，从而让整个社会的智力得到提升。(整个社会相对于之前，预测能力变强了，但对比起同时代其他人，没啥区别)
 4. 所以人们又开始新一轮的思想之争，看谁最厉害，谁能有更强的预测能力。如此一来整个社会便不会有垄断思想，时刻保持活跃，时刻保持进步。
 5. 相反，专制社会，一家独断，人民只能接收统治者提供的洗脑知识。通常而言，那些知识都是愚昧的、落后的，不能让受众得到更强的预测能力、汲取更大的利益，不然的话，统治者就不能一家独断，始终达到利益最大化
 6. 利益 = 权力、金钱等各种能量；这种能量可以让你存活，也可以让你死亡，可以建造出大厦，也可以瞬间让大厦崩塌
@@ -181,4 +181,3 @@ Make a deal that unfair and unwanted.
 > I have noticed some media reports in China, they wanna say some other country was evil, but they can't give you any proof that that country was making an unwanted deal with others. The word 'unfair' is subjective unless you add a timestamp to it. As long as you feel it is fair when you make that deal, it is fair. You shouldn't judge it when after you made that deal. Because that's how business works, some won, some lost.
 
 **你不能只靠“不公平”来评判一项交易。只要你有自主选择权，在做那笔交易时有说 No 的权利，那便是公平的交易。因为那是你自愿达成的。**
-
