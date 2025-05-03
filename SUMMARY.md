@@ -11,6 +11,8 @@
   * [从“性”开始](di-er-zhang-ff0c-ren-sheng-guan/cong-201c-xing-201d-kai-shi.md)
   * [第一次认识世界](di-er-zhang-ff0c-ren-sheng-guan/di-yi-ci-ren-shi-shi-jie.md)
   * [开始上学](di-er-zhang-ff0c-ren-sheng-guan/kai-shi-shang-xue.md)
+* [第三章，价值观](chapter_3/README.md)
+  * [开始工作](chapter_3/start_to_work.md)
 * [什么是爱？](te-8f913a-shi-yao-shi-ai-ff1f.md)
 * [什么是哲学?](shi-yao-shi-zhe-5b663f.md)
 * [数学、推理与逻辑](shu-xue-3001-tui-li-yu-luo-ji.md)
