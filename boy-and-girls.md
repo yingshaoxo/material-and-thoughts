@@ -26,11 +26,11 @@ It's the force of nature, it keeps reminding you to find a young woman and creat
 It's so evil. But that's also why human-being could survive with this long time.
 ```
 
-同时，很多的证据表明，`传宗接代的生命物质(如精子或卵子)`的形成是需要大量营养的。如果你过度纵欲(比如`手淫`)，就会感到精力不够用，原本你可以写一整天的代码，纵欲后却感觉只想睡觉(四肢无力、头脑木讷)。
+同时，很多的证据表明，`传宗接代的生命物质(如精子或卵子)`的形成是需要大量营养的。如果你过度纵欲(比如`手淫`)，就会感到精力不够用，原本你可以写一整天的代码，纵欲后却感觉只想睡觉(四肢无力、头脑木讷)。但你也不用过度担心，纵欲后会有一段时间的“无性欲期”，这段时间是你的恢复期。之后便会满血复活，继续自慰或者做爱。
 
 In general, how you affected by sex is totally depends on how stressful you feel. If you feel like if you stop learning new stuff you will be abandoned or couldn't find a job to survive, you'll definitely drop the desire of sex.
 
-Meanwhile, if you feel like you live in a good situation, you'll do whatever you can to satisfy your desire for sex, for example, to watch porn videos.
+Meanwhile, if you feel like you live in a good situation, you'll do whatever you can to satisfy your desire for sex, for example, to watch porn videos, to find a girl and make love with her.
 
 ## How to be succeeded without sex
 
