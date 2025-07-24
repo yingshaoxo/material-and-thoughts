@@ -47,7 +47,7 @@ Twitter: @yingshaoxo
 
 E-mail: yingshaoxo@gmail.com
 
-Home Page: yingshaoxo.xyz
+Home Page: http://yingshaoxo.xyz
 
 Chat Page (Self_Made AI): http://chat.ai-tools-online.xyz
 
